@@ -1,0 +1,2 @@
+# mode-full
+trabajos varios
